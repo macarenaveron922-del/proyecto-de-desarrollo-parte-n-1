@@ -49,10 +49,10 @@ El trabajo se divide en dos grandes ejes de ejecución:
 
 ### Estructura de archivos del repositorio
 
-* `index.html`: Página web principal con el resumen y los apartados de la investigación.
-* `Informe de Seguridad e Higiene y ART`: Documento base con el desarrollo escrito completo.
-* `Datos de accidentabilidad de Misiones (2021-2025)`: Base de datos estadística utilizada para el diagnóstico.
-* `ART, alícuotas y costos (2021-2025)`: Documentación de referencia sobre el impacto económico del sistema.
+[index.html](https://github.com/user-attachments/files/32883284/index.html) Página web principal con el resumen y los apartados de la investigación.
+[ART_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883320/ART_Misiones_2021-2025.xlsx): Documento base con el desarrollo escrito completo.
+[Informe_Accidentabilidad_Misiones_ART_2021-2025.docx](https://github.com/user-attachments/files/32883322/Informe_Accidentabilidad_Misiones_ART_2021-2025.docx) Base de datos estadística utilizada para el diagnóstico.
+[Accidentabilidad_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883630/Accidentabilidad_Misiones_2021-2025.xlsx) Documentación de referencia sobre el impacto económico del sistema.
 
 ---
 
@@ -66,10 +66,5 @@ Este proyecto refleja una integración entre la investigación académica, el an
 
 *Proyecto académico – Seguridad e Higiene Laboral*
 
-*Misiones, Argentina | Período de estudio: 2021-2025*
-Misiones, Argentina | Período de estudio: 2021-2025
-[index.html](https://github.com/user-attachments/files/32883284/index.html)
-[ART_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883320/ART_Misiones_2021-2025.xlsx)
-[Informe_Accidentabilidad_Misiones_ART_2021-2025.docx](https://github.com/user-attachments/files/32883322/Informe_Accidentabilidad_Misiones_ART_2021-2025.docx)
-[Accidentabilidad_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883323/Accidentabilidad_Misiones_2021-2025.xlsx)
+
 
