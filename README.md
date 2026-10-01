@@ -50,8 +50,14 @@ El trabajo se divide en dos grandes ejes de ejecución:
 ### Estructura de archivos del repositorio
 
 [index.html](https://github.com/user-attachments/files/32883284/index.html) Página web principal con el resumen y los apartados de la investigación.
-[ART_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883320/ART_Misiones_2021-2025.xlsx): Documento base con el desarrollo escrito completo.
-[Informe_Accidentabilidad_Misiones_ART_2021-2025.docx](https://github.com/user-attachments/files/32883322/Informe_Accidentabilidad_Misiones_ART_2021-2025.docx) Base de datos estadística utilizada para el diagnóstico.
+
+
+[Informe_Accidentabilidad_Misiones_ART_2021-2025.docx](https://github.com/user-attachments/files/32883322/Informe_Accidentabilidad_Misiones_ART_2021-2025.docx): Documento base con el desarrollo escrito completo.
+
+
+[ART_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883646/ART_Misiones_2021-2025.xlsx)Base de datos estadística utilizada para el diagnóstico.
+
+
 [Accidentabilidad_Misiones_2021-2025.xlsx](https://github.com/user-attachments/files/32883630/Accidentabilidad_Misiones_2021-2025.xlsx) Documentación de referencia sobre el impacto económico del sistema.
 
 ---
